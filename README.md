@@ -1,2 +1,3 @@
-# it-learning-log
-My IT learning journey : Git, Linux, Python, Networking, Cloud and Cybersecurity.
+# IT Learning Log
+
+My Journey into IT, Cloud and Cybersecurity.
