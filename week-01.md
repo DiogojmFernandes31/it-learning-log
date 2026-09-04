@@ -9,3 +9,8 @@
 - What a repository is;
 - What a commit is;
 - How local and remote repositories are related.
+
+## Git workflow
+
+I am practising the basic git workflow:
+status, add, commit, push.
