@@ -12,5 +12,9 @@
 
 ## Git workflow
 
-I am practising the basic git workflow:
+Practising the basic git workflow:
 status, add, commit, push.
+
+## Pull Request (PR)
+
+Learning how pull requests are used to propose and review changes before merging them. 
